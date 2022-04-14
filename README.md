@@ -9,3 +9,8 @@ python3 -m pip install --editable .
 ```sh
 python -m pytest -s
 ```
+
+## How to use commandline after installation
+```sh
+clitool name -g hello
+```
