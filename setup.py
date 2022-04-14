@@ -5,10 +5,10 @@ setup(
     version='0.1',
     py_modules=['hello'],
     install_requires=[
-        'Click',
+        'click',
     ],
     entry_points='''
         [console_scripts]
-        clitool=src.main.cli:main
+        clitool=main.cli:main
     ''',
 )
