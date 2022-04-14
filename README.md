@@ -12,5 +12,5 @@ python -m pytest -s
 
 ## How to use commandline after installation
 ```sh
-
+clitool name -g hello
 ```
