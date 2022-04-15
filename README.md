@@ -16,7 +16,7 @@ $ python -m build
 $ pip install dist/<packagename>-<version>-py3-none-any.whl
 ```
 
-## How to run all tests
+## How to run all unittests
 ```sh
 $ python -m pytest -s
 ```
